@@ -8,4 +8,3 @@ api_secret = '23H1IfFZ4ENectSZsNpfQRwuDpoESWJdp48aBNN8YE5TpcijZJRxJhHUzqTYxnzT'
 
 recv_window = 6000000
 
-hi
