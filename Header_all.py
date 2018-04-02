@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python
 
 # add headers to .h, .cpp, .c and .ino files automatically.
 # the script will first list the files missing headers, then
