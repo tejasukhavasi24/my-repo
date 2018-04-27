@@ -5,7 +5,7 @@
 # prompt for confirmation. The modification is made inplace.
 #
 # usage:
-#   add-headers.py <header file> <root dir>
+#   add-headers.py <header file> <root dir>. --TEJA FIRST
 #
 # The script will first read the header template in <header file>,
 # then scan for source files recursively from <root dir>.
