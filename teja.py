@@ -6,7 +6,7 @@ I love mmy India
 #author			:tsukha
 #date			:20180320
 #version		:123456
-#usage			:python teja.py
+#usage			:python teja.py dummy
 #notes			:
 #python_version	:2.6.6
 #=============================================================================
